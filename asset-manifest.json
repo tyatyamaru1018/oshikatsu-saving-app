@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tyatyamaru1018/oshikatsu-saving-app/static/css/main.825b17ab.css",
-    "main.js": "/tyatyamaru1018/oshikatsu-saving-app/static/js/main.d9507caf.js",
-    "static/js/453.f59ac6dc.chunk.js": "/tyatyamaru1018/oshikatsu-saving-app/static/js/453.f59ac6dc.chunk.js",
-    "index.html": "/tyatyamaru1018/oshikatsu-saving-app/index.html",
-    "main.825b17ab.css.map": "/tyatyamaru1018/oshikatsu-saving-app/static/css/main.825b17ab.css.map",
-    "main.d9507caf.js.map": "/tyatyamaru1018/oshikatsu-saving-app/static/js/main.d9507caf.js.map",
-    "453.f59ac6dc.chunk.js.map": "/tyatyamaru1018/oshikatsu-saving-app/static/js/453.f59ac6dc.chunk.js.map"
+    "main.css": "/oshikatsu-saving-app/static/css/main.825b17ab.css",
+    "main.js": "/oshikatsu-saving-app/static/js/main.628bf131.js",
+    "static/js/453.f59ac6dc.chunk.js": "/oshikatsu-saving-app/static/js/453.f59ac6dc.chunk.js",
+    "index.html": "/oshikatsu-saving-app/index.html",
+    "main.825b17ab.css.map": "/oshikatsu-saving-app/static/css/main.825b17ab.css.map",
+    "main.628bf131.js.map": "/oshikatsu-saving-app/static/js/main.628bf131.js.map",
+    "453.f59ac6dc.chunk.js.map": "/oshikatsu-saving-app/static/js/453.f59ac6dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.825b17ab.css",
-    "static/js/main.d9507caf.js"
+    "static/js/main.628bf131.js"
   ]
 }
